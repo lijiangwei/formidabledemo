@@ -1,0 +1,19 @@
+{
+  "name": "formidabledemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.3",
+    "express-formidable": "^1.0.0",
+    "formidable": "^1.2.1"
+  },
+  "dependencies": {
+    "express-ws": "^3.0.0"
+  }
+}
